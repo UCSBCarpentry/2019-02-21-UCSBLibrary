@@ -9,6 +9,8 @@ Most importantly, install all of the software that we will be using: git, Bash, 
 [detailed setup instuctions](https://ucsbcarpentry.github.io/2019-02-21-UCSBLibrary/index.html#setup) 
 on the workshop website.  Feel free to contact [Jon Jablonski](mailto:jonjab@ucsb.edu), [Yuan Wu](mailto:yuanwu@ucsb.edu), or [Sharon Solis](swsolis@ucsb.edu) if you need some help with installation.
 
+Next, fill out this [pre-workshop survey](https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2019-02-21-UCSBLibrary), which is also linked from the main workshop page.
+
 Please also review the [Carpentry Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).  We are dedicated to creating a respectful and inclusive learning environment for everyone present.  
   
 Coffee, tea, and a light breakfast will be served both mornings.  Lunch on 
@@ -21,8 +23,6 @@ If you have problems with software installation or configuration, please arrive 
 a hands-on workshop, so having your laptop ready is critical.
 
 We will start promptly at 9:00 am each day.  
-
-We would like to know a little bit more about you.  Please take 30 seconds to fill out [this quick poll](https://goo.gl/forms/sb9Mmh6MSTif8Ywp1).
 
 Finally: this is a sold out workshop and we have people on a waiting list.  Please contact ASAP if you
 are unable to attend so that we can open up your seat to someone else.
