@@ -300,11 +300,11 @@ that you can commit to the full two days of learning. To learn about future Carp
 
 <p>For this workshop's lessons, please download the following data to your desktop:</p>
 <ul>
-  <li> Bash:<a href = data/data-shell.zip>data-shell.zip</a><li>
-  <li> Bash:<a href = data/gapminder-FiveYearData.csv>gapminder-FiveYearData.csv</a><li>
-  <li> Bash:<a href = data/gapminder_data.csv>gapminder_data.csv</a><li>
+  <li>Bash: <a href="data/data-shell.zip">data-shell.zip</a></li>
+  <li>Bash: <a href="data/gapminder-FiveYearData.csv">gapminder-FiveYearData.csv</a></li>
+  <li>Bash: <a href="data/gapminder_data.csv">gapminder_data.csv</a></li>
 </ul>
-</p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
