@@ -65,7 +65,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <h2>Registration</h2>
-<p><a href="https://www.eventbrite.com/e/software-carpentry-workshop-221-222019-registration-55654564300">Reserve your seat here</a>.  UCSB Carpentry Workshops sell out!  Please make sure 
+<p><a href="https://www.eventbrite.com/e/software-carpentry-workshop-221-222019-registration-55654564300">Reserve your seat here</a>.  UCSB Carpentry Workshops sell out!  Please make sure
 that you can commit to the full two days of learning. To learn about future Carpentry workshops, sign up for the mailing list here: <a href="https://groups.google.com/a/library.ucsb.edu/forum/#!forum/carpentry">Join UCSB Carpentry Workshop mailing list</a>.
 </p>
 
@@ -282,7 +282,7 @@ that you can commit to the full two days of learning. To learn about future Carp
   'tools/check' as well.
 {% endcomment %}
 
-<h2 id="setup">Setup</h2>
+<h2 id="setup">Setup Before the Workshop</h2>
 
 <p>
   To participate in a
@@ -296,6 +296,14 @@ that you can commit to the full two days of learning. To learn about future Carp
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
+</p>
+
+<p>For this workshop's lessons, please download the following data to your desktop:</p>
+<ul>
+  <li> Bash:<a href = data/data-shell.zip>data-shell.zip</a><li>
+  <li> Bash:<a href = data/gapminder-FiveYearData.csv>gapminder-FiveYearData.csv</a><li>
+  <li> Bash:<a href = data/gapminder_data.csv>gapminder_data.csv</a><li>
+</ul>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
