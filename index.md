@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "UCSB Library, Classroom 1312 (Day 1), Classroom1 1575 (Day 2)"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "UCSB Library, Classroom 1312 (Day 1), Classroom 1575 (Day 2)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "UCSB Santa Barbara, CA 93106"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "U.S.A."     # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -99,7 +99,9 @@ that you can commit to the full two days of learning. To learn about future Carp
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>
+  or
+  <a href="https://www.library.ucsb.edu/ucsb-1st">UCSB Library 1st Floor Map</a>.
 </p>
 {% endif %}
 
